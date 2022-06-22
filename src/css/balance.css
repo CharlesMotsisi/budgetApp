@@ -1,0 +1,15 @@
+.balance{
+    display: flex;
+    background-color: #fff;
+    width: 500px;
+    height: 100px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.line{
+    border-left: 1px solid green;
+    height:70px;
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
